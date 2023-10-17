@@ -1,6 +1,6 @@
 # flutter_hive
 
-A new Flutter project depicting a basic usage of HiveDB using Riverpod
+A Flutter project depicting a basic usage of HiveDB using Riverpod
 
 ## Getting Started
 
